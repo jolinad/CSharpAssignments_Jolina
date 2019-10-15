@@ -15,9 +15,7 @@ namespace Assignment1
     class Program
     {
         public static IWebDriver driver;
-
-
-
+        
         [SetUp]
         public void SetUp()
         {
